@@ -1,3 +1,6 @@
 [submodule "smahoo-hw"]
 	path = smahoo-hw
 	url = https://github.com/slaesh/smahoo-hw
+[submodule "firmware/smahoo-esp32"]
+	path = firmware/smahoo-esp32
+	url = https://github.com/slaesh/smahoo-esp32
